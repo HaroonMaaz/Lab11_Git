@@ -1,4 +1,4 @@
-Purpose: # Storage Estimator - Main Version
+# Official Storage estimator
 
 How to run : python storage\_estimatory.py
 
