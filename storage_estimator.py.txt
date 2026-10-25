@@ -4,7 +4,8 @@ def estimate_storage(num_photos, avg_photo_mb, num_videos, avg_video_mb):
 def main():
     print("=== Digital Storage Estimator ===")
     total_mb = estimate_storage(250, 4.5, 15, 120.0)
-    print(f"Total storage required: {total_mb:.2f} MB")
+    print("-"*35)
+    print(f"total storage :   .2 MB")
 
 if _name_ == "_main_":
     main()
